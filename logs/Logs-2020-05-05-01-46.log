@@ -1,0 +1,4 @@
+01:46:48.745 [main] ERROR stepDefenations.SignUp_StepDefenation - java.lang.IllegalStateException: The driver executable does not exist: C:\Users\Malempati Parvathi\Desktop\original\web.org.ogila.com\drivers\chromedriver.exe
+01:46:48.801 [main] ERROR stepDefenations.SignUp_StepDefenation - java.lang.NullPointerException
+01:46:48.809 [main] ERROR stepDefenations.SignUp_StepDefenation - java.lang.NullPointerException
+01:46:48.814 [main] ERROR stepDefenations.SignUp_StepDefenation - java.lang.NullPointerException

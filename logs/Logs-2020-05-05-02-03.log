@@ -1,0 +1,6 @@
+02:02:58.683 [main] INFO  stepDefenations.SignUp_StepDefenation - user is on facebook page
+02:03:02.184 [main] INFO  stepDefenations.SignUp_StepDefenation - create account button clicked
+02:03:02.571 [main] INFO  stepDefenations.SignUp_StepDefenation - firstname entered
+02:03:02.766 [main] INFO  stepDefenations.SignUp_StepDefenation - surname entered
+02:03:03.403 [main] INFO  stepDefenations.SignUp_StepDefenation - email entered
+02:03:04.020 [main] INFO  stepDefenations.SignUp_StepDefenation - email re-entered

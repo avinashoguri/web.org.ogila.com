@@ -1,0 +1,6 @@
+01:59:03.288 [main] INFO  stepDefenations.SignUp_StepDefenation - email re-entered
+01:59:04.191 [main] INFO  stepDefenations.SignUp_StepDefenation - DOB selected
+01:59:04.331 [main] INFO  stepDefenations.SignUp_StepDefenation - male selected
+01:59:04.332 [main] INFO  stepDefenations.SignUp_StepDefenation - Signup button clicked
+02:02:54.671 [main] INFO  stepDefenations.SignUp_StepDefenation - User is on OGILA page
+02:02:58.659 [main] INFO  stepDefenations.SignUp_StepDefenation - Continue with facebook button clicked

@@ -1,0 +1,4 @@
+02:03:04.371 [main] INFO  stepDefenations.SignUp_StepDefenation - newpassword entered
+02:03:05.292 [main] INFO  stepDefenations.SignUp_StepDefenation - DOB selected
+02:03:05.435 [main] INFO  stepDefenations.SignUp_StepDefenation - male selected
+02:03:05.435 [main] INFO  stepDefenations.SignUp_StepDefenation - Signup button clicked

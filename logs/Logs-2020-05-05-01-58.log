@@ -1,0 +1,6 @@
+01:49:33.397 [main] INFO  stepDefenations.SignUp_StepDefenation - surname entered
+01:49:33.734 [main] INFO  stepDefenations.SignUp_StepDefenation - email entered
+01:49:34.777 [main] INFO  stepDefenations.SignUp_StepDefenation - DOB selected
+01:49:34.997 [main] INFO  stepDefenations.SignUp_StepDefenation - male selected
+01:49:34.997 [main] INFO  stepDefenations.SignUp_StepDefenation - Signup button clicked
+01:58:52.856 [main] INFO  stepDefenations.SignUp_StepDefenation - User is on OGILA page

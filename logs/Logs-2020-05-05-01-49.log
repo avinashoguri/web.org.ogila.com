@@ -1,0 +1,6 @@
+01:46:48.827 [main] ERROR stepDefenations.SignUp_StepDefenation - java.lang.NullPointerException
+01:49:26.315 [main] INFO  stepDefenations.SignUp_StepDefenation - User is on OGILA page
+01:49:30.166 [main] INFO  stepDefenations.SignUp_StepDefenation - Continue with facebook button clicked
+01:49:30.181 [main] INFO  stepDefenations.SignUp_StepDefenation - user is on facebook page
+01:49:32.940 [main] INFO  stepDefenations.SignUp_StepDefenation - create account button clicked
+01:49:33.229 [main] INFO  stepDefenations.SignUp_StepDefenation - firstname entered
